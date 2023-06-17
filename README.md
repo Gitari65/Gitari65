@@ -1,7 +1,5 @@
 ### Hi hereis what have been upto:👋
 
-<!--
-**Gitari65/Gitari65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://twitter.com/favoriteDevAlex
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...coding is lowkey my broski
--->
+
