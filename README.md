@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... react Js and Nodejs
 - 👯 I’m looking to collaborate on ... softawre-development(web&android)
 - 🤔 I’m looking for help with ...  Internships
-- 💬 Ask me about ... Java
+- 💬 Ask me about ... Java & Frontend dev
 - 📫 How to reach me: ...https://twitter.com/favoriteDevAlex
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...coding is lowkey my broski
