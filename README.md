@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... softawre-development(web&android)
 - 🤔 I’m looking for help with ...  Internships
 - 💬 Ask me about ... Java & Frontend dev
-- 📫 How to reach me: ...<a href="https://twitter.com/favoriteDevAlex">Twitter</a>
+- 📫 How to reach me: ...<a href="https://twitter.com/favoriteDevAlex">Twitter</a> <br><a href=" https://www.linkedin.com/in/alex-gitari-766053228/">LinkedIn</a>
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...coding is lowkey my broski
 
