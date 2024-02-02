@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning PHP with Laravel to expand my skill set and explore new possibilities in web development.
 - 👯 I’m looking to collaborate on exciting Android or Web projects. If you have an interesting project in mind, let's team up and create something amazing!
 - 💬 Ask me about anything related to Technology and Software Development. I'm always eager to discuss and share insights.
-- 📫 How to reach me: ...<h5>Checkout my <a target="_blank" href="https://65608c8a58dbf30e78d57bd1--taupe-truffle-fb0f55.netlify.app/">Portfolio</a> or connect with me on <a target="_blank" href="https://bit.ly/GitariAlex">LinkedIn</a></h5>
+- 📫 How to reach me: ...<h5>Checkout my <a target="_blank" href="https://bit.ly/GitariAlex">Portfolio</a> or connect with me on <a target="_blank" href="https://www.linkedin.com/in/alex-gitari-766053228/">LinkedIn</a></h5>
 - 😄 Pronouns: ...He/Him 
 - ⚡ Fun fact: ...<i>Coding is lowkey my browski</i>
 
